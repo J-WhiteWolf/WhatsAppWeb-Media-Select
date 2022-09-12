@@ -4,7 +4,11 @@ This Script deals with multiple selection of media in WhatsApp group or chat for
 
 ## Usage
 
-1. Select a media to Enable selection.
-2. Paste the Script in Console Window and Hit Enter.
+1. Open a WhatsApp Group or Chat on WhatsApp Web.
+2. Click on Profile name of the Chat.
+3. Click on Media links and docs.
+4. Select a Media item to Enable Selection.
+5. Right click on edge of your window and select Inspect.
+6. Goto Console and paste the Script and Hit Enter.
 
-[Complete guide](https://asapguide.com/download-multiple-photos-whatsapp-web/)
+Congrats! You just selected all loaded media in a whatsapp chat.
